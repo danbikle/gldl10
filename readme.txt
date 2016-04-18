@@ -9,7 +9,7 @@ Installation:
 
 Operation:
   - cd ~
-  - git clone github.com/danbikle/gldl10
+  - git clone https://github.com/danbikle/gldl10
   - cd gldl10
   - ./gldl.bash
 
